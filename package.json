@@ -1,0 +1,9 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "movie graph api",
+  "main": "index.js",
+  "repository": "https://github.com/Dev-hottae/graphql",
+  "author": "hotae Lim",
+  "license": "MIT"
+}
